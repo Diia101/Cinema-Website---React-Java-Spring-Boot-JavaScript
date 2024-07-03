@@ -1,0 +1,53 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;300;400;700&display=swap');  */
+
+
+.registration-box{
+    background-color: #2b2b2b;
+    width: 50%;
+    border: 2px solid #353122;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    /* box-shadow: 10px 5px 15px rgba(0, 0, 0, .1); */
+    border-radius: 10px;
+}
+
+.registration-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.registrationBtn{
+     margin: auto; 
+}
+
+.registration-label-container{
+    text-align: center;
+}
+
+#faRegistration{
+    font-size: xx-large;
+    color:#9d9b42;
+}
+
+.registrationLabel{
+    font-size: xx-large;
+    margin-left: 2%;
+}
+
+
+@media(max-width: 700px){
+    .registration-box{
+        width: 80%;
+    }
+    .registrationBtn{
+        width: 60%;
+    }
+    /* .registrationLabel{
+        font-size: x-large;
+    }
+    #faRegistration{
+        font-size: x-large;
+    } */
+}

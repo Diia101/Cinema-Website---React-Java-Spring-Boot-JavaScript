@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-04-26T13:27:12.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tDib99hyXXto06vdAQjN" version="24.3.0" type="device">
+  <diagram name="Page-1" id="wDRd0qyTCeFjh8iD3EjM">
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qAn04ZRQw6mnpwDB8H3--17" value="Frontend" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#9E0E56;" parent="1" vertex="1">
+          <mxGeometry x="300" y="230" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qAn04ZRQw6mnpwDB8H3--18" value="Server Backend" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#7D1473;" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qAn04ZRQw6mnpwDB8H3--19" value="Database" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#FF3399;" parent="1" vertex="1">
+          <mxGeometry x="840" y="230" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qAn04ZRQw6mnpwDB8H3--20" value="localhost: 3000" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0;entryY=0;entryDx=65;entryDy=180;entryPerimeter=0;" parent="1" target="qAn04ZRQw6mnpwDB8H3--17" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="188" y="295" as="sourcePoint" />
+            <mxPoint x="150" y="295" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="140" y="295" />
+              <mxPoint x="140" y="296" />
+              <mxPoint x="186" y="296" />
+              <mxPoint x="186" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAn04ZRQw6mnpwDB8H3--21" value="localhost: 8080&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22localhost%3A%204200%22%20style%3D%22endArrow%3Dblock%3BendFill%3D1%3Bhtml%3D1%3BedgeStyle%3DorthogonalEdgeStyle%3Balign%3Dleft%3BverticalAlign%3Dtop%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D65%3BentryDy%3D180%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2290%22%20y%3D%22610%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22180%22%20y%3D%22610%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22localhost%3A%204200%22%20style%3D%22endArrow%3Dblock%3BendFill%3D1%3Bhtml%3D1%3BedgeStyle%3DorthogonalEdgeStyle%3Balign%3Dleft%3BverticalAlign%3Dtop%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D65%3BentryDy%3D180%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2290%22%20y%3D%22610%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22180%22%20y%3D%22610%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0;entryY=0;entryDx=65;entryDy=180;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="480" y="290" as="sourcePoint" />
+            <mxPoint x="570" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAn04ZRQw6mnpwDB8H3--22" value="localhost: 3306&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22localhost%3A%204200%22%20style%3D%22endArrow%3Dblock%3BendFill%3D1%3Bhtml%3D1%3BedgeStyle%3DorthogonalEdgeStyle%3Balign%3Dleft%3BverticalAlign%3Dtop%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D65%3BentryDy%3D180%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2290%22%20y%3D%22610%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22180%22%20y%3D%22610%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22localhost%3A%204200%22%20style%3D%22endArrow%3Dblock%3BendFill%3D1%3Bhtml%3D1%3BedgeStyle%3DorthogonalEdgeStyle%3Balign%3Dleft%3BverticalAlign%3Dtop%3Brounded%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D65%3BentryDy%3D180%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2290%22%20y%3D%22610%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22180%22%20y%3D%22610%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0;entryY=0;entryDx=65;entryDy=180;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="750" y="289.5" as="sourcePoint" />
+            <mxPoint x="840" y="289.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCjQS873I3hU230q-NgX-1" value="" style="shape=mxgraph.cisco.people.sitting_woman;html=1;pointerEvents=1;dashed=0;fillColor=#E3147B;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="110" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
